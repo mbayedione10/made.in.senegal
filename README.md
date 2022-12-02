@@ -53,11 +53,12 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="A"> </a>A
 
-- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
+- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (_NOT MAINTAINED ANYMORE_) **by [@orbitturner](https://github.com/orbitturner)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. **by [@JoeDalton24](https://github.com/JoeDalton24)**
-- **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the *NgTinyConf2022* was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the _NgTinyConf2022_ was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
+- **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. **by [@honorableCon](https://github.com/honorableCon)**
 
 ## <a name="B"> </a>B
 
@@ -75,11 +76,13 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
+- **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. **by [@bambadiagne](https://github.com/bambadiagne)**
 
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Document Templating Service](https://github.com/PapiHack/document-templating-service)** - A simple and lightweight service that allows you to process your word document with the variables defined therein by injecting the necessary data that you will provide and return the result in PDF. **by [@PapiHack](https://github.com/PapiHack)**
 
 ## <a name="E"> </a>E
 
@@ -97,19 +100,22 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="G"> </a>G
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. **by [@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
 ## <a name="H"> </a>H
 
-- **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for _HacktoberFest Hackaton 2021_ organized by GalsenDEV & LinuxSenegal. **by [@GalsenDev221](https://github.com/GalsenDev221)**
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="I"> </a>I
 
 - **[Implicit SFTP File Sender](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the [CONTAINER] folder. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. **by [@diop](https://github.com/diop)**
+- **[Internet Connectivity Checker](https://github.com/HamadaHiro/internet_connectivity_checker)** - The Flutter package that helps you easily manage dynamic widgets based on the device's internet access. **by [@HamadaHiro](https://github.com/HamadaHiro)**
 
 ## <a name="J"> </a>J
 
@@ -138,13 +144,14 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Web Based Blockchain Demo & Exlanation made for those who are making their first steps into the Blockchain/Crypto and Web3 world. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Encoder](https://github.com/orbitturner/ORBIT-ENCODER)** - An utility library for Data Compression and Encoding. It can take whatever object you give him as argument and returns a compressed encoded string. It provides a decoding method too. It uses a modified version of LZString for Compression. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an authorization header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Mind](https://github.com/orbitturner/Orbit-Mind)** - My personal Knowledge Base, Cheat-Sheets and Notes for various projects, tools and technologies. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - Orbit ToolBox is an Toolbox regrouping many utilities for everyday task. It's built with Angular and was born during the NG Tiny Conf 2022. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - Orbit ToolBox is an Toolbox regrouping many utilities for everyday task. It's built with Angular and was born during the _NG Tiny Conf 2022_. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 
+- **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A Python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. **by [@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
@@ -158,6 +165,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Pulaar Dictionary](https://github.com/Medikan/pulaar-dictionary)** - Online Pulaar dictionary for the Hallpulaaren of Senegal. **by [@Medikan](https://github.com/Medikan)**
+- **[Puppeteer Google](https://github.com/joedioufy/puppeteer-google)** - Automatically sign in with Google using Puppeteer. **by [@joedioufy](https://github.com/joedioufy)**
 - **[Python Coding Challenge](https://github.com/mbayedione10/PythonCodingChallenge)** - Practice your Python skills with these programming challenges on problem-Solving and data Structure. **by [@mbayedione10](https://github.com/mbayedione10)**
 - **[Python Drools SDK](https://github.com/PapiHack/python-drools-sdk)** - A Python client library for interacting with a Drools KIE Server. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Python Utils](https://github.com/bambadiagne/python-utils)** - A repo who contains Python tools This tool create folders and move currents files in each type of extension. **by [@bambadiagne](https://github.com/bambadiagne)**
@@ -178,6 +186,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Sard Form](https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily by using a declarative way where the code can be readed and understood like a simple text. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[SGML Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool in order to parse SGML files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. **by [@honorablecon](https://github.com/honorablecon)**
