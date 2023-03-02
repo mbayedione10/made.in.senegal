@@ -81,6 +81,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Dj Tracker](https://github.com/tijani-dia/dj-tracker)** - A Django app that helps monitor and optimise your queries. by **[@tijani-dia](https://github.com/tijani-dia)**
+- **[Django React App](https://github.com/Mahmoud-Barry/django-react-app)** - React application already configured to be used in a Django project as a Django application. by **[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[Document Templating Service](https://github.com/PapiHack/document-templating-service)** - A simple and lightweight service that allows you to process your word document with the variables defined therein by injecting the necessary data that you will provide and return the result in PDF. by **[@PapiHack](https://github.com/PapiHack)**
 - **[Drowsiness Detector](https://github.com/TiDev00/DrowsinessDetection)** - A simple tool which detects drowsy driving and send a loud sound signal. by **[@TiDev00](https://github.com/TiDev00)**
@@ -103,7 +105,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
+- **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** An API with (Flask + GraphQL + Cron) to retrieve statistics from GitHub users according to defined criteria. by **[@bambadiagne](https://github.com/bambadiagne)**
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. by **[@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**
