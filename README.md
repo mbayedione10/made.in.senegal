@@ -53,11 +53,11 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="A"> </a>A
 
-- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (_NOT MAINTAINED ANYMORE_) by **[@orbitturner](https://github.com/orbitturner)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the _NgTinyConf2022_ was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assign issues based on "/assign-me" command (or whatever command you want to use). by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. by **[@honorableCon](https://github.com/honorableCon)**
 
 ## <a name="B"> </a>B
@@ -65,7 +65,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. by **[@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. by **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[Benford Law Chart Generator](https://github.com/MedouneSGB/Benford-Law-chart-generator)** - This program applies Benford's law to a set of numerical data and generates a graph. by **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). by **[@nourou4them](https://github.com/nourou4them)**
+- **[Blog Hive](https://github.com/takanome-dev/BlogHive)** - A community-driven platform for bloggers to improve their skills and connect with like-minded individuals. by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. by **[@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
@@ -80,7 +82,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="D"> </a>D
 
-- **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and Java. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a Node.js module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
 - **[Dj Tracker](https://github.com/tijani-dia/dj-tracker)** - A Django app that helps monitor and optimise your queries. by **[@tijani-dia](https://github.com/tijani-dia)**
 - **[Django React App](https://github.com/Mahmoud-Barry/django-react-app)** - React application already configured to be used in a Django project as a Django application. by **[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
@@ -99,16 +102,19 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. by **[@diop](https://github.com/diop)**
+- **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for [Dexchange SMS API](https://dexchange-sms.com/), you can send SMS, send OTP and verify it. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Flutter News App](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. by **[@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="G"> </a>G
 
+- **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi is an API that allows you to easily manipulate data about Senegal. by **[@sibylassana95](https://github.com/sibylassana95)**
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
-- **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[Galsenify](https://github.com/daoodaba975/galsenify)** - A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** An API with (Flask + GraphQL + Cron) to retrieve statistics from GitHub users according to defined criteria. by **[@bambadiagne](https://github.com/bambadiagne)**
+- **[GoPass](https://github.com/NDOY3M4N/gopass)** A super basic CLI app for generating password. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. by **[@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**
@@ -140,11 +146,12 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="M"> </a>M
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and Typescript rules setup for NextJS and NestJS apps. by **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. by **[@babacarbasse](https://github.com/babacarbasse)**
-- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project.  by **[@DerXter](https://github.com/DerXter)**
+- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. by **[@DerXter](https://github.com/DerXter)**
 
 ## <a name="O"> </a>O
 
