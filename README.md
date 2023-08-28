@@ -77,6 +77,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. by **[@cheikhomarsow](https://github.com/cheikhomarsow)**
+- **[Country Flag Code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. by **[@MIdiop](https://github.com/MJdiop/)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. by **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. by **[@bambadiagne](https://github.com/bambadiagne)**
 
@@ -191,6 +192,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="R"> </a>R
 
+- **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** - Helps you make responsive layout without any media query or using a third CSS library. by **[@Alkaly02](https://github.com/Alkaly02)**
 - **[React Multy CSV Viewer](https://github.com/JoeDalton24/react-multy-csv-viewer)** - React component to visualize CSV file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for your React Native projects, which allows you to set up a drag and drop system, giving the elements to move and the columns as parameters. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
@@ -226,6 +228,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** - Visualisation of West Africa's economics data. by **[@Ousmaneleye](https://github.com/Ousmaneleye)**
 - **[Windows PGSQL Auto Backuper](https://gist.github.com/orbitturner/edaca12b34baf4e293781055cc3816a4)** - This is a batch script to backup the database using PostgreSQL backup utility "pg_dump". You can add this script to the Windows Task Scheduler and define your custom backup routine. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. by **[Dar-rius](https://github.com/Dar-rius)**
+- **[Wolof Spell Checker](https://github.com/TiDev00/Wolof_SpellChecker)** - Automatic spell checking and correction for Wolof language. by **[TiDev00](https://github.com/TiDev00)**
 
 ## <a name="X"> </a>X
 
